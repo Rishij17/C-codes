@@ -1,3 +1,3 @@
 # C-codes
-codes of different programs regarding c
+COPYING OME STRING TO ANOTHER WITHOUT USING PREDEFINED FUNCTION
 ![image](https://github.com/Rishij17/C-codes/assets/143082790/f12d9412-ae3f-4529-bab1-1ede7435bb92)
